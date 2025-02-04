@@ -9,8 +9,8 @@ Ce projet est un chatbot conçu avec Gemini Flash 1.5, qui délivre des anecdote
 🛠 Installation
 Clonez le repo :
 
-git clone https://github.com/votre-utilisateur/chatbot-irritable-nouvelle-vague.git
-cd chatbot-irritable-nouvelle-vague
+git clone https://github.com/Gustaviche/cinemabot.git
+cd cinemabot
 Installez les dépendances nécessaires :
 
 pip install -r requirements.txt
